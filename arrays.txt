@@ -1,3 +1,0 @@
-e.split(divider[, limit]);
-e.join(divider);
-new Array(num).join(content);
